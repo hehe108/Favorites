@@ -1,0 +1,1561 @@
+https://www.williamlong.info/archives/5685.html
+谷歌发布免费实时转录软件
+
+https://www.solidot.org/story?sid=58116
+互联网档案馆拯救了维基百科上超过 900 万死链
+
+
+https://www.cnbeta.com/articles/tech/773847.htm
+三所美国大学让学生使用iPhone和Apple Watch代替学生证
+
+
+https://www.cnbeta.com/articles/tech/773359.htm
+香港快速支付“转数快”支持微信转账到支付宝
+
+
+https://hot.cnbeta.com/articles/game/773393
+谷歌网页的小彩蛋 源代码中隐藏着一个冒险小游戏
+
+
+https://jinbushetuan.github.io/gqbjbxs/
+[问与答] 这里有一封来自全国二十多所高校学生联名的告白书
+
+
+https://www.v2ex.com/t/494363#reply4
+分享一个挺特别的网站
+
+
+http://www.cnblogs.com/yunke-ws/p/9734432.html
+NLPCC2013中文微博细粒度情感识别（二）
+
+https://hot.cnbeta.com/articles/game/721305
+大神在《模拟城市3000》建造600万人口都市：犯罪率为0
+
+
+
+https://www.cnblogs.com/laishenghao/p/9736696.html
+TensorFlow 训练MNIST数据集（2）—— 多层神经网络
+
+http://www.cnblogs.com/xiaozhi_5638/p/9718266.html
+世界人工智能大会记录
+
+https://www.cnblogs.com/xiaozhi_5638/p/9268715.html
+[AI开发]Python+Tensorflow打造自己的计算机视觉API服务
+
+
+
+http://www.freebuf.com/news/184511.html
+系统出现重大漏洞，Windows用户要小心了
+
+
+http://www.abc.net.au/chinese/2018-09-18/china-social-credit-leave-no-dark-corner/10264922
+【聚焦】中国无死角“数字独裁”体系下的模范公民
+
+
+https://cn.nytimes.com/opinion/20180921/learning-to-survive-without-wechat/
+为何我选择不依赖微信生活
+
+
+https://blog.csdn.net/u011582412/article/details/19492983
+tp-wr703N TTL刷机教程
+
+
+https://mp.weixin.qq.com/s/ZiEsIXhbwK9I3SASzmXFzQ
+http://www.sohu.com/a/160748946_662019#comment_area
+祸害千年的“中国式聪明”，正在毁掉下一代！
+
+
+https://www.solidot.org/story?sid=58128
+报道称中国利用微型芯片渗透亚马逊和苹果
+
+https://www.solidot.org/story?sid=58132
+D-Wave 发布免费一分钟试用的量子计算服务
+
+
+https://www.cnbeta.com/articles/science/774289.htm
+小扎夫妇生物中心公开小鼠细胞数据库 将推动研究
+
+http://www.rs05.com/movie5929.html
+大学心里实验室   广场恐惧症   《致命怪谈》HD高清国语中字
+
+https://www.cnbeta.com/articles/tech/774729.htm
+[图]仅剩下Safari了：Firefox宣布支持谷歌的WebP图片格式
+
+
+https://www.cnbeta.com/articles/tech/774615.htm
+D-Wave发布免费一分钟试用的量子计算服务
+
+
+https://www.v2ex.com/t/495228#reply0
+美国生孩子 DIY 攻略
+
+
+https://www.v2ex.com/t/495188#reply6
+受不了了，只能上振楼神器了
+
+
+https://www.v2ex.com/t/495048#reply0
+没有 FC 红白机，我用 esp8266 徒手造一个玩游戏！
+
+https://blog.csdn.net/zhugeaming2018/article/details/82849099
+程序猿真的觉得写代码比女朋友重要吗？
+
+
+https://www.solidot.org/story?sid=58041
+Google 要求雇员删除与审查版搜索引擎相关的备忘录
+
+
+
+https://hot.cnbeta.com/articles/comic/770767
+三次元声优和人工智能面对面交流 场面迷幻
+
+
+https://blog.csdn.net/zhugeaming2018/article/details/82797984
+写博客对程序员很重要吗？
+
+
+
+https://www.v2ex.com/t/491368#reply0
+https://www.v2ex.com/t/434108
+国外程序媛的一天
+
+https://freeweibo.com/weibo/4285578205752556
+好闺密都是你上辈子的妈妈 ​
+
+
+https://freeweibo.com/weibo/4285739912858922
+钟皓v：看看山东媒体的智商吧，让山…
+
+
+
+
+https://www.engadget.com/2018/09/14/google-china-dragonfly-search
+Google's rumored 'Dragonfly' search prototype tied data to phone numbers
+
+
+
+
+https://www.cnblogs.com/lxz-1263030049/p/9462138.html
+蓝鲸CTF——隐写术
+
+https://www.engadget.com/2018/09/14/google-china-dragonfly-search/
+Google's rumored 'Dragonfly' search prototype tied data to phone numbers
+
+
+https://blog.csdn.net/viatorsun/article/details/82934861
+Python 入门画图神器 Matplotlib
+
+
+https://www.cnblogs.com/balabalaeight/p/9750191.html
+数据分析实战之豆瓣小说知多少？
+
+
+
+http://www.freebuf.com/articles/system/185865.html
+一种无需用户交互捕获哈希的方法
+
+
+http://www.freebuf.com/news/185968.html
+彭博社曝光的“间谍芯片”，我在淘宝1块钱就能买一个
+
+
+https://my.oschina.net/u/3947427/blog/2223057
+NLP实践 TensorFlow打造聊天机器人 顶 转
+
+https://my.oschina.net/u/2294923/blog/2223114
+能让一张照片动起来的软件 转
+
+
+
+https://cn.engadget.com/2018/10/04/google-translate-ios-speaks-in-regional-accents/
+Google 翻译的发音，现在都可以带点口音了
+
+
+
+https://news.slashdot.org/story/18/10/06/2216253/will-chromebooks-someday-threaten-windows?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Slashdot%2Fslashdot+%28Slashdot%29
+Chromebook有一天会威胁到Windows吗？
+
+https://tech.slashdot.org/story/18/09/25/1428238/tencent-security-researcher-fined-for-hacking-hotel-wifi-and-publishing-internal-network-credentials-online?utm_source=rss1.0moreanon&utm_medium=feed
+
+
+
+
+https://mobile.slashdot.org/story/18/09/26/200259/using-wi-fi-to-count-people-through-walls?utm_source=rss1.0moreanon&utm_medium=feed
+使用Wi-Fi通过墙壁计算人数
+
+
+https://blog.csdn.net/hy13684802853/article/details/82985952
+opencv去除印章痕迹
+
+
+https://blog.csdn.net/madeinjack/article/details/82985845
+OpenCV+Python车牌字符分割和识别入门 （含新能源车牌识别）
+
+
+
+https://my.oschina.net/shipley/blog/2223510
+Raspberry PI + SIM808发短信 原
+
+
+https://www.weibo.com/p/1005053042667153/home?from=page_100505&mod=TAB&is_hot=1#place
+新加坡路由器
+
+
+https://github.com/RicterZ/windows-kernel-exploits
+RicterZ  入侵新加坡路由器
+
+
+https://www.pingwest.com/a/177559
+苹果是一个被硬件耽误了的广告公司！
+
+
+
+https://www.pingwest.com/w/177718
+DeepMind和Unity合作，开发虚拟环境训练AI
+
+
+http://www.myrobi.cn/
+http://robi.tw/
+机器人Robi
+
+
+https://www.pingwest.com/v/177839
+悟空机器人这么萌，竟然是AI技术的未来？
+
+
+
+https://www.pingwest.com/w/177585
+首批40个支持支付宝的境外旅游地：日本成田机场、法国巴黎奥斯曼大街等入围
+
+
+
+
+https://www.solidot.org/story?sid=58064
+Chrome 69 清空 Cookies 会保留 Google 的 Cookies
+
+
+https://www.pingwest.com/w/177718
+DeepMind和Unity合作，开发虚拟环境训练AI
+
+
+https://www.pingwest.com/w/177877
+《王者荣耀》将在京深两地启动小规模人脸识别技术测试
+
+
+https://www.pingwest.com/w/177897
+日本Robi机器人之父高桥智隆出任优必选首席产品官
+
+
+https://www.pingwest.com/a/177931
+脊柱里的小电脑，或许能让千万瘫痪者重新站起来
+
+
+
+https://www.v2ex.com/t/496410#reply1
+如何在 https 的平台访问 http 网站?
+可以用 nginx 反代一下加上 https。 可以找支持 https 方式访问的。 如果是纯静态资源还可以直接下载到本地调用
+！！！！！！！！！！！！！！！！！！！
+
+
+
+https://www.v2ex.com/t/496485#reply0
+前端界拼 html 和后端拼 sql 的历史惊人的相似啊
+
+
+https://www.engadget.com/2018/09/30/brain-to-brain-network/
+Brain-to-brain network allows three people to share their thoughts
+
+
+https://www.cnbeta.com/articles/tech/775241.htm
+腾讯追投Bilibili 稳定根基还是应对今日头条冲击
+
+
+
+https://hot.cnbeta.com/articles/funny/775263
+小米手环居然给卫生纸测出心率？并不神奇
+请问用绿茶检测出糖尿病了怎么办?
+
+
+
+https://www.cnbeta.com/articles/tech/775341.htm
+中国腾讯技术影响力触及伦敦 用AI诊断帕金森症
+
+
+https://www.cnbeta.com/articles/soft/775423.htm
+开源可自建的RSS订阅器 - FreshRSS
+
+
+
+https://www.cnbeta.com/articles/tech/776555.htm
+荷兰开发蜜蜂机器人：如果蜜蜂灭绝它可以去授粉
+
+
+https://www.cnbeta.com/articles/tech/776471.htm
+GSMArena点评OPPO这六年：无惧于创新尝试 成功不是偶然
+
+
+
+https://www.v2ex.com/t/495487#reply1
+小米手环 3NFC 版本复制加密门卡成功
+
+
+https://www.v2ex.com/t/496961#reply0
+这是个假谷歌，你发现了么？
+
+
+
+https://www.v2ex.com/t/496852#reply0
+腾讯已经能决定 QQ 邮箱里什么邮件重要了吗？是能分析客户的邮箱里的内容吗？
+
+
+
+https://www.v2ex.com/t/496032#reply0
+google+终于死了。。。还我 google reader!
+
+
+
+https://www.v2ex.com/t/496072#reply0
+好怀念 8 位游戏机时代啊
+
+
+https://www.solidot.org/story?sid=58155
+IBM 超越 7nm
+
+https://www.solidot.org/story?sid=58160
+Google 曾计划尽可能快的发布审查版搜索引擎
+
+
+https://zhuanlan.zhihu.com/p/46205149?utm_campaign=rss&utm_medium=rss&utm_source=rss&utm_content=title
+人工智能时代 为什么说围棋越来越吸引人
+
+
+https://blog.csdn.net/qq_15029743/article/details/82997446
+物体识别，Win7下运行TensorFlow Object Detection API详细版教程(零基础操作)
+
+
+https://www.v2ex.com/t/495509#reply0
+[问与答] 求推荐一款心率检测手环
+
+
+https://www.v2ex.com/t/495544#reply0
+[分享创造] 一个“起名”小工具
+
+大哥，办“证”吗
+https://www.v2ex.com/t/495814#reply1
+
+
+一个超级棒的插件
+https://www.v2ex.com/t/496228#reply0
+
+
+
+https://my.oschina.net/airxiechao/blog/2239875
+车牌识别-Mask_RCNN定位车牌+手写方法分割字符+CNN单个字符识别
+
+
+https://my.oschina.net/demons99/blog/2239804
+如何在500w个单词中统计特定前缀的单词有多少个？
+
+
+
+deeplearning4j——卷积神经网络对验证码进行识别
+https://my.oschina.net/u/1778239/blog/2236894
+
+
+通过屏幕识别技术，vivo 开启了技术创新的大门
+https://www.ifanr.com/1105818?utm_source=rss&utm_medium=rss&utm_campaign=
+
+
+
+
+https://www.pingwest.com/a/178192
+SpaceX 又搞事情了，照亮了整个加州！
+
+
+
+https://www.pingwest.com/a/178181
+Google全家桶大更新：地表最强AI手机Pixel 3来了
+
+
+
+https://www.pingwest.com/w/177549
+腾讯安全工程师利用酒店WiFi漏洞访问内部服务器，被新加坡安全局逮捕
+
+
+ソフトバンクが最大10W出力のワイヤレス充電器、iPhone XSにも対応
+https://japanese.engadget.com/2018/09/27/10w-iphone-xs/
+
+
+
+心電計測をより手軽に。外部電源不要で皮膚に貼れる計測デバイス、理研と東大が開発
+https://japanese.engadget.com/2018/09/30/electrocardiograph/
+
+
+
+https://www.solidot.org/story?sid=58190
+中国科学家创造出没有父亲的小鼠
+
+
+
+https://www.theverge.com/2018/10/10/17960722/magic-leap-one-creator-edition-shipping-continuous-us
+Magic Leap is shipping across (most of) the US
+
+
+https://36kr.com/p/5155320.html?ktm_source=feed
+人体植入微型芯片：坚决抗拒的你，未来会感叹“真香”吗？
+
+
+https://my.oschina.net/jjyuangu/blog/2243365
+关于人脸检测一些笔记
+
+
+
+
+https://www.solidot.org/story?sid=58224
+IPv6 普及度突破 25%
+
+
+
+https://www.solidot.org/story?sid=58220
+如果入境时被要求检查电子设备
+
+
+https://www.v2ex.com/t/497516#reply3
+求问，无人机远程实现空投有没有创意想法？
+
+
+
+https://www.v2ex.com/t/497833#reply0
+使用 esp8266 开发的游戏机，升级到了 v2 版本，高仿 chrome 离线小恐龙游戏！
+
+
+
+华为发布量子计算模拟器HiQ云服务平台
+https://www.cnbeta.com/articles/tech/776871.htm
+
+
+手机充电时自动在网上订总统套房？原因查出来了
+https://www.cnbeta.com/articles/tech/777009.htm
+
+
+北京积分落户公示名单公布 今年落户规模6000人
+https://36kr.com/p/5157199.html?ktm_source=feed
+
+
+
+https://www.cnblogs.com/hoxis/p/9778620.html
+Python | 一行命令生成动态二维码
+
+
+https://www.v2ex.com/t/498053#reply0
+[问与答] 自如的针孔摄像头事件~ 如何检查自己的房间有没有摄像头及录音设备等其他泄密设备呀？
+
+
+https://baijiahao.baidu.com/s?id=1590262911231022203&wfr=spider&for=pc
+亚马逊无人商店Amazon Go开业了 它比国内的无人商店高明在哪？
+
+
+https://www.williamlong.info/archives/5495.html
+美国退出万国邮联 中国跨境电商要黄
+
+
+https://www.v2ex.com/t/498630#reply1
+Project Fi 的福利
+
+
+Amazon's new APIs connect smart home cameras and doorbells to Alexa
+https://www.engadget.com/2018/10/12/amazons-new-apis-connect-smart-home-cameras-and-doorbells/
+
+
+Julian Assange needs to take care of his cat, or it’ll be given away, Ecuador says
+https://www.theverge.com/tldr/2018/10/16/17984140/julian-assange-wikileaks-ecuador-london-embassy-cat
+
+
+The new ‘world’s thinnest phone’ slots into a business card case
+https://www.theverge.com/circuitbreaker/2018/10/18/17993400/docomo-business-card-phone-kyocera-ky-o1l-japan
+
+
+UK payments startup SumUp launches a 3G-powered credit card reader
+https://thenextweb.com/plugged/2018/10/11/uk-payments-startup-sumup-launches-a-3g-powered-credit-card-reader/
+
+
+https://thenextweb.com/creativity/2018/10/16/adobe-characterizer-turns-you-into-an-animated-drawing-with-the-power-of-ai/
+Adobe Characterizer turns you into an animated drawing with the power of AI
+
+[2018] PaperEasy 论文降重软件有用吗？
+https://www.v2ex.com/t/498601#reply0
+
+
+https://www.cnbeta.com/articles/tech/778329.htm
+海信无人店宣布落地中国台湾：可24时无营业员营业
+
+
+
+https://www.cnbeta.com/articles/tech/778139.htm
+波士顿动力展示四足机器人SpotMini精彩舞蹈视频
+
+
+Meet the people building their own sex toys
+https://thenextweb.com/syndication/2018/10/17/meet-the-people-building-their-own-sex-toys/?utm_source=social&utm_medium=feed&utm_campaign=profeed
+
+
+Scientists prove same-sex mammals can make babies
+https://thenextweb.com/science/2018/10/17/scientists-prove-same-sex-mammals-can-make-babies/?utm_source=social&utm_medium=feed&utm_campaign=profeed
+
+
+https://www.blog.google/products/pixel/pixel-3-and-device-ai-putting-superpowers-your-pocket/
+Pixel 3 and on-device AI: Putting superpowers in your pocket
+
+
+
+Japanese Passport Now World's Most Powerful
+https://news.slashdot.org/story/18/10/14/1949225/japanese-passport-now-worlds-most-powerful?utm_source=rss1.0moreanon&utm_medium=feed
+
+
+
+Qualcomm's New Wi-Fi Chips Are Meant To Rival 5G Speeds
+https://mobile.slashdot.org/story/18/10/16/2137253/qualcomms-new-wi-fi-chips-are-meant-to-rival-5g-speeds?utm_source=rss1.0moreanon&utm_medium=feed
+
+
+Chinese City 'Plans To Launch Artificial Moon To Replace Streetlights'
+https://science.slashdot.org/story/18/10/17/2322251/chinese-city-plans-to-launch-artificial-moon-to-replace-streetlights?utm_source=rss1.0moreanon&utm_medium=feed
+
+
+漏洞挖掘之乱拳打死老师傅——Fuzzer
+https://www.anquanke.com/post/id/161719
+
+
+开启Wi-Fi就会泄漏身份信息，还有这种骚操作？
+https://www.anquanke.com/post/id/161892
+
+
+电网上没用掉的⚡️，最后都跑到哪儿去了？
+https://daily.zhihu.com/story/9698080
+
+
+不懂程序看的明白《黑客帝国》吗？ - 爱生活，爱Python
+https://www.cnblogs.com/qq2105154714/p/9799283.html
+
+
+Unity游戏神经网络版坦克大战 - 卧龙浪士
+https://www.cnblogs.com/pojdd/p/9801400.html
+
+
+今天女朋友暗示你买戴森卷发棒了吗？冷静！
+https://www.pingwest.com/a/178295
+
+
+https://www.pingwest.com/w/178501
+百度与北京西北旺镇政府合作，打造首都智能城镇示范区
+
+
+
+2018 世界支付报告：无现金支付美国第一，中国第三
+https://www.pingwest.com/w/178625
+
+
+机器人都能玩跑酷了，你走正步还顺拐呢
+https://www.pingwest.com/a/178372
+
+
+https://japanese.engadget.com/2018/10/15/google-ai-99/
+Google AI、転移性乳がんの検出精度で99%達成と主張。医師は患者ケアに集中可能に
+
+ボストン・ダイナミクス、二足歩行ロボットAtlasが段差を跳ね上がるパルクール動画を公開
+https://japanese.engadget.com/2018/10/13/atlas/
+
+
+联想重夺季度 PC 出货量首名
+https://cn.engadget.com/2018/10/11/lenovo-retakes-lead-in-q3-2018-pc-share/
+
+
+Google 的电话 AI 将会在 11 月登陆 Pixel 手机
+https://cn.engadget.com/2018/10/09/google-duplex-on-pixel-phones-first/
+
+
+http://www.cnblogs.com/asialee/p/9800039.html
+机器学习分类算法常用评价指标
+
+百度AI攻城狮，用TensorFlow API训练目标检测模型（浣熊超可爱）
+https://my.oschina.net/u/3942476/blog/2248170
+
+opencv图像识别训练实例
+https://blog.csdn.net/k_wang_/article/details/83116942
+
+为上好学校少儿编程火热 专家：切勿成为下个奥数
+https://www.cnbeta.com/articles/tech/778213.htm
+
+
+https://www.pingwest.com/w/178625
+2018 世界支付报告：无现金支付美国第一，中国第三
+
+https://news.slashdot.org/story/18/10/14/1949225/japanese-passport-now-worlds-most-powerful?utm_source=rss1.0moreanon&utm_medium=feed
+Japanese Passport Now World's Most Powerful
+
+
+
+
+Qualcomm's New Wi-Fi Chips Are Meant To Rival 5G Speeds
+https://mobile.slashdot.org/story/18/10/16/2137253/qualcomms-new-wi-fi-chips-are-meant-to-rival-5g-speeds?utm_source=rss1.0moreanon&utm_medium=feed
+
+
+http://www.sohu.com/a/234381059_570485
+定了！收费站将正式取消！又有一批人将失业？！
+
+
+https://www.cnbeta.com/articles/soft/778655.htm
+扫黄打非办：用微信发淫秽视频给好友也是犯法的
+
+
+
+https://www.v2ex.com/t/498676#reply4s
+体检过后，写了个插件在 chrome 里养小黄鸭提醒自己喝水=w=
+
+
+https://www.ifanr.com/1115606?utm_source=rss&utm_medium=rss&utm_campaign=
+2012 年，谷歌大脑做了一个著名的实验：1000 台计算机组成了超过 10 亿个「突触」连接的神经网络，研究者输入了 1000 万个静态图像，通过 3 天的密集寻找重复出现的模式后，谷歌大脑终于可以识别出一些特定的重复类别：人类面孔和人类身体，或者是一只猫。
+
+
+http://www.5ifxw.com/vip/
+vip接口
+
+
+从 Google Maps 到 Google Earth
+https://www.ifanr.com/1115571?utm_source=rss&utm_medium=rss&utm_campaign=
+
+
+这个能让万物变为「触摸屏」的投影仪，比索尼的还便宜 | 验货
+https://www.ifanr.com/1111925?utm_source=rss&utm_medium=rss&utm_campaign=
+
+
+又一航司取消免费飞机餐，坐飞机吃泡面其实没你想象中忧伤
+https://www.ifanr.com/1116213?utm_source=rss&utm_medium=rss&utm_campaign=
+
+
+八个成人网站用户数据泄露
+https://www.solidot.org/story?sid=58306
+
+吴恩达说，现在你能拿手机叫辆自动驾驶车去市中心
+https://www.cnbeta.com/articles/tech/779259.htm
+
+
+首款转写机器人讯飞听见M1发布：1小时音频5分钟出稿​
+https://www.cnbeta.com/articles/tech/779553.htm
+
+中国TOP100超级计算机首次全国产 曙光九连冠
+https://www.cnbeta.com/articles/tech/779633.htm
+
+
+
+
+英国小偷秒开特斯拉Model S车门：不会拔充电头尴尬了
+https://hot.cnbeta.com/articles/funny/779693
+
+
+
+无人驾驶"烧钱"无尽，汽车厂商不得不合作搞研发
+https://www.cnbeta.com/articles/tech/780061.htm
+
+巨人网络进军虚拟偶像市场 首位虚拟主播即将推出
+https://www.cnbeta.com/articles/tech/780155.htm
+
+
+[问与答] Google 助理（Google Assistant）开始支持繁中
+https://www.v2ex.com/t/498789#reply0
+
+一个 Python 的 DNS over HTTP/HTTPS 实现
+https://www.v2ex.com/t/498974#reply0
+
+
+[宽带症候群] 有哪些好用的 IPv6 DNS？
+https://www.v2ex.com/t/498967#reply0
+
+
+[问与答] 深度学习多路 GPU 主板选择
+https://www.v2ex.com/t/499026#reply1
+
+ruby 国内没希望了，只能肉翻了
+https://www.v2ex.com/t/499163#reply0
+
+
+
+[问与答] 腾讯又添 AI 开源项目！ 腾讯 AI Lab 正式开源业内最大规模多标签图像数据集
+https://www.v2ex.com/t/499251#reply0
+
+
+[分享创造] 一个能发微信发短信甚至能打电话提醒你的微信的小程序，来体验一下吧
+https://www.v2ex.com/t/499750#reply1
+
+
+[Python] 做了个给训神经网络和计算机视觉用的可视化工具，十分钟开始训练神经网络，求些意见～
+https://www.v2ex.com/t/499914#reply3
+
+
+
+[问与答] Google Cloud platform 试用到期了！
+https://www.v2ex.com/t/499879#reply8
+
+
+[宽带症候群] 买了个华为随行 WiFi 2 Pro，装上香港万众卡，看油管和 netflix 皆很爽，就是流量用得太快了
+https://www.v2ex.com/t/500306#reply0
+
+
+[程序员] 消灭敏感词是每个公民义不容辞的责任
+https://www.v2ex.com/t/501297#reply0
+
+求推荐大陆使用的香港手机卡
+https://www.v2ex.com/t/500231#reply0
+
+
+https://blog.csdn.net/zhangphil/article/details/83146705
+Android通过蓝牙发送数据到Windows PC电脑：Java实现
+
+
+
+https://blog.csdn.net/eric_lh/article/details/83151481
+计算文本相似度－Word2Vec计算
+
+
+https://blog.csdn.net/shareviews/article/details/83242002
+Tensorflow超级资源列表(Github 12.8K星)包罗万象
+
+
+https://blog.csdn.net/zx48822821/article/details/83246706
+计算机网络基础 之四：网络层
+
+
+http://blog.csdn.net/xmtblog/article/details/83271539
+老罗android开发视频教程全集百度网盘下载
+
+
+https://blog.csdn.net/l1028386804/article/details/83277219
+Python之——获取电脑连接过的所有wifi名称和密码
+
+
+
+https://blog.csdn.net/qq_39384184/article/details/83277713
+OpenCV——Haar级联人眼检测数据
+
+
+https://blog.csdn.net/qixizhuang/article/details/83278130
+从零开始学matplotlib画图(六): 双轴图
+
+
+https://mp.weixin.qq.com/s/Dj_nlbVw5hv4RKDEy4R5pw
+“跳一跳”还能这么玩？
+
+
+https://blog.csdn.net/hihell/article/details/83271052
+Python爬虫入门教程 15-100 石家庄政民互动数据爬取
+
+
+https://www.cnblogs.com/Colin-Cai/p/7749031.html
+谨慎对待人工智能
+
+
+https://www.thepaper.cn/newsDetail_forward_1830073
+所以最后人类灭亡了，机器人带着人类的基因寻找新的栖息地，在几亿年后，在一个星球上，机器人开始制造人类，并且在某处以旁观者的身份看着人类发展。
+
+
+
+https://blog.csdn.net/qq_39384184/article/details/83278363
+关于OpenCV算法未实现及其版权问题
+
+
+https://blog.csdn.net/qq_37360631/article/details/83301705
+汇编第二次实验
+
+
+https://blog.csdn.net/qq_43285892/article/details/83347830
+python语言脑图学习系列（3）-Python3 解释器
+
+
+https://blog.csdn.net/ybhuangfugui/article/details/83412712
+CANOpen系列教程01_初识CAN与CANOpen及相关内容
+
+
+
+https://blog.csdn.net/nefuyang/article/details/83412814
+Android反编译之enjarify
+
+
+
+https://my.oschina.net/u/1787354/blog/2249060
+搬瓦工最新国内可访问镜像网址：bwh8.net 原
+
+
+
+https://my.oschina.net/u/3308739/blog/2254408
+微软将Office语音办公啦 原
+
+
+https://my.oschina.net/u/1777508/blog/2253954
+手动脱壳VMP 转
+
+
+https://yq.aliyun.com/articles/630892
+3- OpenCV+TensorFlow 入门人工智能图像处理-TensorFlow入门
+
+https://my.oschina.net/u/3949328/blog/2254038
+Tensorflow神经网络预测股票均价 转
+
+
+
+https://my.oschina.net/xiaogg/blog/2253226
+新增网址/网页 截图api 原
+
+
+知识点043-selenium自动化测试网页工具的使用 原
+https://my.oschina.net/u/3635512/blog/2250482
+
+https://my.oschina.net/langhuihui/blog/2250196
+将桌面捕获到虚拟摄像头 原
+
+
+https://hot.cnbeta.com/articles/movie/782663
+《毒液》曝“神秘入侵”海报 全球知名地标遭“毒”手
+
+
+https://www.cnbeta.com/articles/tech/782611.htm
+与Amazon Go竞争 沃尔玛山姆会员商店在德州推出半自动化实体店
+
+
+
+https://www.cnbeta.com/articles/tech/782501.htm
+编程课将成“下一个奥数”？
+
+
+
+https://www.cnbeta.com/articles/science/782301.htm
+中国将科幻作家科普作家的基因样本发送到太空
+
+
+https://www.cnbeta.com/articles/tech/782243.htm
+美媒：AI平台“沃森”进展不佳 收购红帽或挽救IBM
+
+
+https://www.cnbeta.com/articles/tech/782127.htm
+泄露14万孕妇基因库?华大基因：不存在数据出境
+
+https://hot.cnbeta.com/articles/game/782107
+首款王者荣耀智能机器人“吕布”正式发布：1499元起
+
+
+https://www.cnbeta.com/articles/tech/781941.htm
+沈向洋的微软小娜“易主” 被移至Office产品部门
+
+
+
+https://www.cnbeta.com/articles/tech/781853.htm
+微软研究院用Lumia 640展示电子墨水二级屏幕
+
+
+https://www.cnbeta.com/articles/tech/781811.htm
+Google发帖庆贺GMail迎来第15亿名用户
+
+
+
+https://www.cnbeta.com/articles/tech/781561.htm
+华为AI音箱发布：399元
+
+
+https://www.cnbeta.com/articles/tech/780233.htm
+“间谍芯片”事件升级 AWS和超微CEO在愤怒中声援库克开撕彭博社
+
+
+https://www.cnbeta.com/articles/tech/780303.htm
+小米发布两款新型插线板 49元起
+
+
+
+https://hot.cnbeta.com/articles/game/780603
+[图]《超级马里奥兄弟3》30岁了：80年代最伟大的游戏
+
+
+
+https://www.cnbeta.com/articles/tech/780643.htm
+高通联合爱立信拨通首个5G电话 未来5G暂时与4G并行
+
+
+
+https://www.cnbeta.com/articles/tech/781159.htm
+小米小爱蓝牙音箱随身版发布：49元一键激活小爱同学
+
+
+
+https://www.cnbeta.com/articles/tech/781339.htm
+百兆宽带不满意？全球还有一半人未联网
+
+
+https://www.cnbeta.com/articles/tech/781703.htm
+彭博：云计算引爆的科技业繁荣可能要到头了
+
+
+
+https://www.cnbeta.com/articles/tech/781701.htm
+谷歌无人驾驶汽车开始向乘客收费 自动驾驶真的要来了
+
+
+https://www.cnbeta.com/articles/science/781307.htm
+人类细胞可制造计算机芯片 更小运行速度更快
+
+
+
+https://www.v2ex.com/t/501711#reply0
+发现一个杜绝垃圾短信骚扰的好方法，国内国外都不怕。全球各个地方都有=========================听说标题要长
+
+
+
+https://www.v2ex.com/t/502012#reply0
+IBM 喜提红帽
+
+
+
+https://www.v2ex.com/t/502306#reply0
+搞了个“果汁排行榜”，终于可以随意查看各种排名了
+
+
+
+https://www.solidot.org/story?sid=58389
+中国将科幻作家科普作家的基因样本发送到太空
+
+你的脑电波能完全取代密码
+https://www.solidot.org/story?sid=58404
+
+
+李开复纽约时报专栏：美国对中国AI的几大误解
+https://www.cnbeta.com/articles/tech/771503.htm
+谁能在这场较量中获胜，或将取决于主要障碍是存在于核心技术方面，还是执行细节方面。如果是技术层面的障碍，即核心算法的重大改进问题，那么美国就处于有利位置；如果障碍存在于应用层面，涉及到智能基础设施或与之相适应的政策，那么中国就占据上风
+对公职人员来说，这些决策都包含了一定程度的风险，在高度对立的政治环境中更是如此，因为每一项决策失误都能成为政敌的把柄。
+
+
+https://www.williamlong.info/archives/5509.html
+使用“谷歌移动设备易用性”工具优化移动网站
+
+
+
+
+http://bbs.eeworld.com.cn/thread-457709-1-1.html
+[原创] TPLink wr703n 无线小路由刷OPENWRT 不需要拆机 4M
+
+
+https://www.cnbeta.com/articles/tech/782747.htm
+研究团队让你的脑电波能完全取代密码
+
+
+
+https://www.cnbeta.com/articles/tech/782881.htm
+电视机能当显示器吗？是更大更便宜 但真的做不了显示器
+
+
+
+https://www.cnbeta.com/articles/tech/783085.htm
+AI终将成为人类？索尼将推出人工智能人格养成系统
+
+
+
+https://www.cnbeta.com/articles/tech/783159.htm
+氦气泄露导致苹果设备故障
+
+
+https://www.cnbeta.com/articles/tech/783263.htm
+“无锁不开”女黑客 - skye
+
+
+
+https://www.cnbeta.com/articles/tech/783271.htm
+若有更好的替代方案 生殖器移植是否还值得冒险？
+
+
+
+https://www.cnbeta.com/articles/tech/784073.htm
+印度研究人员研发出该国第一个自主微处理器
+
+
+美国指控中国黑客窃取航空航天机密
+
+
+Twitter 的图像能被用于传输不同文件类型
+https://www.solidot.org/story?sid=58433
+
+https://www.v2ex.com/t/502985#reply0
+如何快速的将语音文件识别成文字
+
+
+
+https://www.v2ex.com/t/503807#reply0
+家人的私人手机号码被标记为快递员了
+
+
+https://www.v2ex.com/t/501964#reply0
+红米
+
+
+https://www.solidot.org/story?sid=58517
+育碧和谐彩虹六号围攻引玩家不满
+
+
+https://www.solidot.org/story?sid=58513
+中国招募天才少年开发杀人机器人
+
+
+https://www.solidot.org/story?sid=58496
+中国政府开始部署步态识别技术
+
+
+https://hot.cnbeta.com/articles/game/786353
+V社就辱华事件回复Burning 不支持种族主义歧视与侮辱
+
+
+https://www.cnbeta.com/articles/tech/786305.htm
+2018 ACM 杰出科学家名单最新公布 12 位华人学者上榜
+
+
+
+https://www.cnbeta.com/articles/science/786153.htm
+4亿多人的“家族树”显示：基因对寿命影响其实很小
+
+
+https://www.cnbeta.com/articles/tech/786125.htm
+[图]亚马逊语音助手Alexa上架Microsoft Store
+
+
+
+https://www.cnbeta.com/articles/tech/786113.htm
+谷歌一名中国籍女员工被公司班车撞倒不幸身亡
+
+
+https://www.solidot.org/story?sid=58539
+校长在学校挖以太坊被免职
+
+https://www.solidot.org/story?sid=58527
+新华社引入 AI 合成主播
+
+
+https://www.solidot.org/story?sid=58505
+但实现量子密钥分发，需要建立专门的量子通信网络，投入不菲，不可能用它来替换现有互联网。所以，未来量子密钥分发将和抗量子密码算法一道，为信息安全保驾护航。前者可以用于金融等高安全领域，后者可提供商业性的加密、个人认证服务。
+
+
+https://www.solidot.org/story?sid=58503
+'Oumuamua 可能来自外星文明
+
+
+https://www.solidot.org/story?sid=58498
+AT&T 将切断多次侵权的用户宽带服务
+
+https://www.solidot.org/story?sid=58496
+中国政府开始部署步态识别技术
+
+
+https://www.solidot.org/story?sid=58489
+Google 让 NASA 帮它证明量子计算机的内在优势
+
+
+https://www.solidot.org/story?sid=58486
+不安全的中情局 Web 系统导致其间谍被杀
+
+
+猎豹傅盛在抖音上和机器合成的“自己”对话
+https://www.cnbeta.com/articles/tech/784745.htm
+
+
+https://www.cnbeta.com/articles/tech/785113.htm
+丰田成为谷歌全球最热搜汽车品牌 称霸57国榜单
+
+
+https://hot.cnbeta.com/articles/comic/785339
+日本男子和初音未来举办婚礼 仪式隆重还有证婚人
+
+
+https://www.cnbeta.com/articles/tech/785779.htm
+三星向第三方开放智能助理Bixby 未来支持更多语言
+
+[视频]三星成功研发可用脑电波控制的智能电视系统
+https://www.cnbeta.com/articles/tech/786907.htm
+
+最前线｜李彦宏亲自站台的海淀AI公园，我们第一时间进去体验了
+https://36kr.com/p/5159920.html?ktm_source=feed
+
+云从科技研发语音识别技术 97.03%一举打破世界纪录
+https://36kr.com/p/5159363.html?ktm_source=feed
+
+
+https://36kr.com/p/5158088.html?ktm_source=feed
+「夏洛克贴锁」让用户无需拆换，就能快速升级为智能门锁
+
+
+https://gitee.com/xshuai/bodyTrack
+Java基于百度AI+JavaCV+OpenCV 实现摄像头人数动态统计
+
+
+
+https://www.oschina.net/news/100985/templatespider-2-1-released
+扒网站工具发布 v2.1 版本，所见网站，皆可为我所用！
+
+
+https://www.oschina.net/news/101551/apfree-wifidog-3-10-1696-released
+ApFree WiFiDog 3.10.1696 发布，全面替换 libhttpd 重装上阵
+
+
+《你的名字。》口嚼酒被专家指出有法律问题
+https://hot.cnbeta.com/articles/comic/787853
+
+Nokia 106直板机首发 并带来Nokia 230的两种新配色
+https://www.cnbeta.com/articles/tech/788083.htm
+
+
+https://www.cnbeta.com/articles/science/789627.htm
+记性不好？向后走能增强短期记忆 但为什么还不知道
+
+
+https://www.cnbeta.com/articles/soft/788135.htm
+FydeOS发布虚拟机版本 可用VMWare进行体验
+
+
+https://www.cnbeta.com/articles/tech/788451.htm
+微软、FB联合开发人工智能软件挑战谷歌领先地位
+
+
+https://hot.cnbeta.com/articles/game/789927
+2018年5款最好的Linux游戏
+
+https://www.cnbeta.com/articles/tech/788593.htm
+清华大学超算团队摘得SC 2018桂冠 包揽三大国际大学生超算竞赛总冠军
+
+
+https://www.solidot.org/story?sid=58648
+中国指控内存制造商垄断
+
+
+https://www.solidot.org/story?sid=58654
+以色列科学家开发出不会排斥的可移植器官
+
+
+http://reader.s-reader.com/article/9f/3619599.html?l=45e899faa7d32713ba879553f6e70884&ft_size=&site_id=1
+「新贫富数字鸿沟」：你沉迷手机时，金字塔尖父母早已让孩子远离屏幕
+
+
+https://www.v2ex.com/t/507905#reply0
+油管彻底屏蔽了中国大陆的 ipv6
+
+刚刚坐了一次飞机，安检的时候还要拍照？这是在做人脸识别吗？？可怜我一直注意不给任何公司面部数据，阿里系各种扫脸的诱惑从来不心动，今天机场这一下就功亏一篑了？？开发这个系统的程序员，安检的拍照是在做人脸识别吗？
+https://www.v2ex.com/t/508826?p=1
+
+
+
+如何利用 LTE／4G 伪基站＋GSM 中间人攻击攻破所有短信验证 ，纯干货！| 硬创公开课
+https://www.leiphone.com/news/201612/IP3S4Z9Z8VwLbfPr.html
+
+Python制作AI贪吃蛇
+https://www.cnblogs.com/meditation5201314/p/9985495.html
+
+
+https://www.solidot.org/story?sid=58666
+Windows 内核曾经尝试应对伽马射线导致的比特翻转
+
+
+https://www.v2ex.com/t/510258#reply1
+除了苹果还有什么适合女士的轻一点的 win 笔电吗
+
+
+https://www.solidot.org/story?sid=58689
+研究称中国用干净能源取代煤每年能拯救数十万生命
+
+
+https://www.cnbeta.com/articles/tech/790759.htm
+小米总裁林斌用5G网络发出第一条微博
+
+
+https://www.cnbeta.com/articles/science/791235.htm
+这些生物黑客用自己的身体做实验 皮下植入物获得更多快感
+
+
+https://www.cnbeta.com/articles/tech/791289.htm
+先理解大脑再创造AI 这个人的想法连DeepMind都没懂
+
+
+https://hot.cnbeta.com/articles/funny/791563
+网友同时买了小米插线板和路由器 结果哭笑不得
+
+
+https://www.cnblogs.com/xiaozhi_5638/p/9993232.html
+python+selenium实现自动抢票
+
+
+
+https://www.v2ex.com/t/512265#reply2
+请大家给我推荐复古游戏
+
+
+
+https://jingyan.baidu.com/article/08b6a591beaf8214a80922a2.html
+Volte怎么开通并使用听语音
+
+https://www.solidot.org/story?sid=58811
+中国如何收集电动汽车数据
+
+https://www.solidot.org/story?sid=58799
+暗网毒贩自愿禁售芬太尼
+
+
+https://www.freebuf.com/articles/system/189293.html
+如何使用Metasploit进行汽车安全性测试？
+
+https://www.freebuf.com/articles/web/191375.html
+浅谈HTTP隐蔽隧道下的RDP暴力破解测试
+
+https://www.v2ex.com/t/517859#reply2
+这个 3D 可交互的地图 怎么做？
+
+
+
+https://www.cnbeta.com/articles/tech/801829.htm
+用AI解析配方 化妆品的“私人定制”时代要来了
+
+
+https://new.qq.com/omn/20181103/20181103B0D7IF.html
+央视首播华为公益广告片：用最优秀的人培养更优秀的人
+
+
+
+浅谈读取USB键盘流量的隐藏数据技巧s
+https://www.freebuf.com/articles/network/191815.html
+
+[每年必发] 2018 年度 晒桌面
+https://www.v2ex.com/t/419135?p=2
+
+Momenta成立于2016年，是世界顶尖的自动驾驶公司。其核心技术是基于深度学习的环境感知、高精度地图、驾驶决策算法。产品包括不同级别的自动驾驶方案，以及衍生出的大数据服务。
+http://www.momenta.cn/
+
+
+
+http://drive.ai/
+
+手把手教你做无人驾驶汽车（一）
+https://www.leiphone.com/news/201612/KS0hrmmL0bwYhQVi.html
+
+
+谷歌最新版验证码系统 ReCaptcha 已破解
+https://www.v2ex.com/t/523438#reply2
+
+
+利用ms017漏洞
+https://www.sohu.com/a/229114920_354899
+
+穷鬼 HomeKit 智能家居踩坑攻略
+https://www.v2ex.com/t/523297#reply0
+
+Windows 0day任意文件读取漏洞POC分析
+https://www.freebuf.com/vuls/192876.html
+
+
+沉寂一年多 August终于要发布新款视频智能门铃了
+https://www.cnbeta.com/articles/tech/804709.htm
+
+pychaim下PyInstaller 打包 python程序
+https://www.cnblogs.com/7rhythm/p/10196745.html
+
+中小研发团队架构实践之生产环境诊断工具WinDbg
+http://www.cnblogs.com/dotnet-arch-system/p/10213539.html
+
+一个程序员的世界（三） 全：（原名：一个程序员的世界观）
+http://www.cnblogs.com/ghostrichard/p/3161719.html
+
+通过Windows实现端口转发
+https://www.williamlong.info/archives/5575.html
+
+CES上IBM展示量子计算机原型：太高端就像艺术品
+https://www.cnbeta.com/articles/tech/806651.htm
+
+中国TOP10手机品牌排名：华为霸主 三星第七 诺基亚第十
+https://www.cnbeta.com/articles/tech/806375.htm
+
+2019 年 ，学点什么好？
+https://www.v2ex.com/t/525163#reply1
+
+中国联通客户掌上营业厅开始支持在线变更互联网套餐
+https://www.cnbeta.com/articles/tech/806891.htm
+
+12306ByPass 抢票外部监控与通知
+https://www.v2ex.com/t/525362#reply0
+
+想上外网，该怎么解决？
+https://www.v2ex.com/t/525382#reply0
+
+
+网民因翻墙被罚一千元
+https://www.solidot.org/story?sid=59187
+
+免费DDOS攻击测试工具大合集
+https://www.freebuf.com/sectool/36545.html
+
+Spigen手机壳为真正的室内无线充电带来了可能
+https://www.cnbeta.com/articles/tech/807881.htm
+
+
+网民因在朋友圈骂交警被拘 8 天
+https://www.solidot.org/story?sid=59262
+
+【FreeBuf年终策划】2017年最好用的Android渗透工具合集
+https://www.freebuf.com/sectool/124507.html
+
+作死尝试交换机口插一起，会死机？
+https://www.v2ex.com/t/527356#reply1
+
+谨慎对待人工智能
+https://www.cnblogs.com/Colin-Cai/p/7749031.html
+
+又有 7.73 亿账号密码泄露
+https://www.v2ex.com/t/528085#reply0
+
+有感于华为禁止第三方桌面
+https://www.v2ex.com/t/528374#reply2
+
+广东初步查明“基因编辑婴儿事件”！
+https://mp.weixin.qq.com/s?src=11&timestamp=1548075601&ver=1379&signature=t7jurcjQkhhBYDxBuTaHO6XXAcoDkvPvo6FuZt6Y-TAepYIv2kUbKH*jUnak-GCWcos8k26Gmer3eMyolFphwUrQPGpOYwT8J84aAZZ6awLF0zh6Sqnj2oUWhIp6lM8D&new=1
+
+
+
+阿Q的圈画圆了
+http://blog.sina.com.cn/s/blog_13309137d0102wzgb.html
+
+
+我带我妈出院临走的时候，一个六十多岁的老人还跟我说：我家里住浙江金华什么村多少号，你让我儿子周六接我回去，我想吃鱼了，求求你。
+https://www.zhihu.com/question/20043810
+
+扔掉“百度”，教你在 RunKit 上 5 行代码免费创建自己的 google 镜像站
+https://www.v2ex.com/t/529777#reply0
+
+
+[奥运会] 周五凌晨 2 点星际 2Deepmind AI 首秀
+https://www.v2ex.com/t/529775#reply1
+
+单车独骑东南亚：中国 → 越南 → 柬埔寨 → 泰国 → 马来西亚（更新越南篇）
+https://www.v2ex.com/t/529440#reply1
+
+
+
+[Node.js] 晕乎， ghost 安装起来真复杂
+https://www.v2ex.com/t/528736#reply0
+
+
+
+https://yro.slashdot.org/story/19/01/21/1425201/a-large-number-of-top-free-vpn-apps-either-have-chinese-ownership-or-are-based-in-china?utm_source=rss1.0moreanon&utm_medium=feed
+
+CloudQuery: 把任意网站变成 API
+https://www.v2ex.com/t/530294#reply0
+
+微信抓包中遇到的问题
+https://www.v2ex.com/t/530314#reply0
+
+SNK暗示将使用神经网络AI制作《侍魂》电脑对手
+https://hot.cnbeta.com/articles/game/812971
+
+移动的 8 元保号的话，可以下载一个 无忧行 就可以用 App 待机了😂
+https://www.v2ex.com/t/531866#reply1
+
+
+[图]科学家成功将大脑思想“翻译”成语音 有望恢复ALS患者的交流能力
+https://www.cnbeta.com/articles/science/814339.htm
+
+脚本
+https://greasyfork.org/zh-CN/scripts?filter_locale=1
+
+小程序真的是腾讯喂给中国开发者的一坨屎
+https://www.v2ex.com/t/532416#reply12
+
+
+Kickstarter
+https://www.dobot.cc/
+
+
+六轴高斯机械臂
+https://www.v2ex.com/t/532199#reply0
+
+
+现在语音合成哪家最像真人说话？
+https://www.v2ex.com/t/533267#reply1
+
+春晚刘谦的魔术…
+https://www.v2ex.com/t/533080#reply8
+
+一个 125kHz 低频 ID 卡读写的 Android 实现
+https://www.v2ex.com/t/533578#reply3
+
+[幻影相机]分享一个 AI 实时抠图相机
+https://www.v2ex.com/t/533611#reply0
+
+Skype开始支持虚化背景 - 终于可以不用收拾房间了
+https://www.cnbeta.com/articles/tech/816147.htm
+
+
+火车头采集器如何采集QQ群成员中的QQ号
+http://www.cnblogs.com/webnote/p/10349347.html
+
+人脸识别完整项目实战（13）：实时人脸检测程序设计
+http://www.cnblogs.com/hadoopdev/p/10368711.html
+
+
+如何知道路由器 SSID 是隔壁邻居的
+https://www.v2ex.com/t/534992#reply1
+
+我也发一个 Chrome 扩展，功能主治： Cookies 切换， UA 切换，简单的网址监听
+https://www.v2ex.com/t/531963#reply0
+
+
+360与Security Innovation组建自动驾驶安全实验室
+
+
+习强国是中国最受欢迎的教育应用
+https://www.solidot.org/story?sid=59570
+
+[视频]这个网站使用人工智能生成肉眼难以区分的虚假人脸
+https://www.cnbeta.com/articles/tech/818583.htm
+
+
+尽管大家还在期待着传说中的 Surface Phone，但事实表明，该项目已经演变成了 Andromeda —— 一款与手机不再有共同点的多形态设备。
+https://www.cnbeta.com/articles/tech/818579.htm
+
+Cuniq UK: 搞了张能在大陆漫游的英国手机卡
+https://www.v2ex.com/t/535715#reply0
+
+
+Auto ml
+https://www.v2ex.com/t/535708#reply4
+
+
+写字机器人
+
+我人肉了一个用果照威胁女孩的变态
+https://paper.seebug.org/810/
+https://www.v2ex.com/t/535557#reply19
+
+干货！分享一款windows下的磁盘分析神器。
+http://www.cnblogs.com/justmine/p/10386899.html
+
+手绘图自动生成 html
+https://www.v2ex.com/t/535877#reply1
+
+修改就修改呗，关韭菜什么事
+https://streamja.com/bAyo
+https://www.v2ex.com/t/535870#reply0
+
+“写字机器人”悄然流行：家长吐槽 教育界担忧
+https://www.cnbeta.com/articles/tech/818917.htm
+
+8天入门docker系列 —— 第二天 通过一个aspnetcore程序加深对容器的理解
+https://www.cnblogs.com/huangxincheng/p/10391829.html
+
+Sailfish OS 在俄罗斯更名为 Aurora OS
+https://www.cnbeta.com/articles/tech/819595.htm
+
+CNN+BLSTM+CTC的验证码识别从训练到部署
+https://www.freebuf.com/articles/web/195469.html
+
+
+大年初一，红包外挂装好了吗？
+https://www.freebuf.com/articles/database/195363.html
+
+[视频]Vivo NEX摄像头弹出5万次之后 功能还完好如初吗？
+https://www.cnbeta.com/articles/tech/760835.htm
+
+串改
+https://www.freebuf.com/articles/web/195414.html
+
+记一次微信数据库解密过程
+https://www.freebuf.com/articles/rookie/195107.html
+
+移动“境外来电防诈骗提示”服务上线！ 
+http://www.sohu.com/a/290042466_690118
+
+
+程序猿的你希望女朋友是什么职业？
+https://www.v2ex.com/t/536826#reply14
+
+微信无法绑定大陆手机号
+https://www.v2ex.com/t/536815#reply1
+
+想出国玩一趟，求指导
+https://www.v2ex.com/t/537172#reply5
+
+
+QQ凭啥吸引年轻人？因为他们不愿和家长同样使用微信
+https://www.cnbeta.com/articles/tech/819815.htm
+
+最早提出云计算的谷歌 却成了这场竞赛的追赶者
+https://www.cnbeta.com/articles/tech/820055.htm
+
+[京东] 京东装机靠谱不
+https://www.v2ex.com/t/537732#reply2
+
+12306 验证码破解，基于 tensorflow keras
+https://www.v2ex.com/t/537693#reply2
+
+写字机器人
+https://www.cnbeta.com/articles/tech/820969.htm
+
+隐藏在 USB 线里的 WIFI
+https://www.solidot.org/story?sid=59621
+
+BlackHat 2018 | 现代智能手机基带破解
+https://www.freebuf.com/vuls/181115.html
+
+
+https://www.spieltimes.com/news/xi-jinping-winnie-the-pooh-moron-found-in-devotion-game-is-being-review-bombed-by-chinese-players/
+这下丢人丢到国外去了
+现在全世界都知道维尼包子了。莫不是过两天还能有个迪士尼警告
+老外还在看 Google trend，估计他们忘了这印度公司的破站早就倒闭，在我朝根本无法访问
+
+2018 BlackHat 大会工具清单 
+http://www.sohu.com/a/247261066_609556
+
+ Google Voice 
+https://www.v2ex.com/t/539008#reply0
+
+《陈涉世家》确认从语文教材中删除 人教社回应
+https://www.cnbeta.com/articles/tech/821869.htm
+
+
+word2vec+LSTM 情感识别，帮忙看看哪出了问题
+https://www.v2ex.com/t/538115#reply0
+
+
+5G 已经来了，科普文搜集贴
+https://www.v2ex.com/t/538268#reply0
+
+薅资本主义羊毛：使用Google的免费GPU破解哈希
+https://www.freebuf.com/geek/195453.html
+
+
+十三款流行无线黑客工具介绍  OmniPeek
+https://www.freebuf.com/sectool/195898.html
+
+GSM Sniffing嗅探设备组装之短信嗅探
+https://www.freebuf.com/articles/wireless/195630.html
+
+由于上次发布了 12306 验证码识别地址，被人恶意请求
+https://www.v2ex.com/t/538141#reply0
+
+[谷歌家庭安全系统被曝暗藏麦克风]
+https://www.v2ex.com/t/538127#reply0
+
+阿丽塔片尾的彩蛋被剪了？
+https://www.v2ex.com/t/538126#reply0
+
+[问与答] 0.05 亿在帝都买房， v 友有哪些推荐？
+https://www.v2ex.com/t/538124#reply9
+
+Bigjpg - AI 人工智能图片无损放大 - 使用人工智能深度卷积神经网络(CNN)无损放大图片
+https://www.v2ex.com/t/538122#reply4
+
+类型混淆漏洞实例浅析
+https://www.freebuf.com/vuls/196276.html
+
+缓冲区溢出实战教程系列（一）：第一个缓冲区溢出小程序
+https://www.freebuf.com/articles/system/195614.html
+
+微信PC端技术研究：截获语音消息
+https://www.freebuf.com/articles/database/195504.html
+
+使用x64dbg分析微信并获取所有联系人信息
+https://www.freebuf.com/articles/terminal/195774.html
