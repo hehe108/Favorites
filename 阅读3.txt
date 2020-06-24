@@ -1,0 +1,330 @@
+﻿https://www.cnblogs.com/dongxiaodong/p/13157901.html
+人脸识别和手势识别应用（face++）开发
+
+Python验证码识别
+https://www.cnblogs.com/kerlomz/p/13029795.html
+
+
+小米电视无法安装非应用商店软件
+https://www.v2ex.com/t/676457#reply0
+
+
+kali中安装漏洞靶场Vulhub(超详细)
+https://www.cnblogs.com/lxfweb/p/12952490.html
+
+
+美国又“拉黑”33家中国机构 五大AI独角兽全进实体清单
+https://www.cnbeta.com/articles/tech/982561.htm
+
+
+当初为了有机会进大厂，狠心复习了这9门核心知识点，熬夜整理成思维导图送给大家
+https://www.cnblogs.com/kubidemanong/p/12863498.html
+
+opencv基于PCA降维算法的人脸识别
+https://www.cnblogs.com/zq98/p/12844549.html
+
+
+马赛克一键变高清？神奇的AI“无损放大”工具
+https://www.cnbeta.com/articles/tech/975709.htm
+
+如何入门机器学习
+https://www.cnblogs.com/txkjai/p/12463901.html
+
+
+微信小程序接入百度OCR（身份证识别）
+https://www.cnblogs.com/masterchd/p/12452005.html
+
+
+Vulhub漏洞靶场搭建
+https://www.freebuf.com/articles/web/226207.html
+
+
+
+
+[评论]“上上下下左右左右BA”作弊码之父桥本和久去世
+https://www.cnbeta.com/articles/tech/948459.htm
+
+
+
+给大家分享我最近的另一个发明：「Emoji Mask」 Neuralink 
+https://www.v2ex.com/t/646876#reply0
+
+
+
+Python 进行目标检测
+https://www.cnblogs.com/zhj-Szu/p/12311082.html
+
+
+宅在家学不进去吗？试试这些 GitHub 上简单易学的游戏项目吧
+https://www.cnblogs.com/xueweihan/p/12303148.html
+
+
+韩媒称三星处境尴尬：利润不如苹果 增长落后于华为
+https://www.cnbeta.com/articles/tech/942235.htm
+
+
+
+
+需要掌握知识python，opencv和机器学习一类的基础
+https://www.cnblogs.com/wzb-liumangtu/p/12284154.html
+
+
+
+CVE-2019-0708 漏洞分析及相关测试
+https://www.freebuf.com/vuls/224828.html
+
+
+一次完整的OCR实践记录
+https://www.cnblogs.com/xiaoyh/p/12183339.html
+
+《柳叶刀》公布2019-nCoV新型冠状病毒彩照
+https://www.cnbeta.com/articles/science/939399.htm
+
+
+苹果开发者会费豁免制度覆盖到更多国家
+https://www.cnbeta.com/articles/tech/939237.htm
+
+
+Canny边缘检测算法（基于OpenCV的Java实现）
+https://www.cnblogs.com/jeffersonqin/p/12249753.html
+
+
+Kali Linux 2020.1 发布
+https://www.cnbeta.com/articles/tech/938059.htm
+
+清华大学免费开放知识库：无需登录注册 在家就能上清华
+https://www.cnbeta.com/articles/science/937385.htm
+
+
+
+一款优秀的XSS批量检测工具
+https://www.freebuf.com/sectool/223009.html
+
+
+
+CES2020落幕，还有14个大健康的项目值得关注
+https://www.36kr.com/p/5286292?ktm_source=feed
+
+
+
+Tesseract-OCR-v5.0中文识别,训练自定义字库,提高图片的识别效果
+https://www.cnblogs.com/channel9/p/12227166.html
+
+
+【自制操作系统01】硬核讲解计算机的启动过程
+https://www.cnblogs.com/flashsun/p/12218813.html
+
+
+有人搞清楚小米电视 s/x/a/c 有什么区别了吗？
+https://www.v2ex.com/t/639201#reply0
+
+
+国内首例植入式脑机接口临床研究取得突破性进展
+https://www.cnbeta.com/articles/tech/933687.htm
+
+
+看了小米电视和荣耀智慧屏的对比，视频播放方面 4K 中、高码率简直被吊打
+https://www.v2ex.com/t/638412#reply0
+
+400 美元入门版的 Wacom One 应该会适合新手设计师
+https://cn.engadget.com/cn-2020-01-09-wacom-one-pen-display.html
+
+
+大脑植入电极 高位截瘫病人用意念喝水
+https://www.cnbeta.com/articles/tech/933359.htm
+
+
+
+XSS基础学习
+https://www.cnblogs.com/wangyuyang1016/p/12196045.html
+
+
+
+用Python爬取了考研吧1000条帖子，原来他们都在讨论这些！
+https://www.cnblogs.com/xavierx/p/12194681.html
+
+
+
+2019 APP下载排行榜出炉：抖音超7亿高居第二
+https://www.cnbeta.com/articles/tech/933017.htm
+
+
+
+最前线｜火山小视频升级为抖音火山版，抗衡快手火力更足了吗？
+https://36kr.com/p/5283320?ktm_source=feed
+
+
+
+年会抽奖程序增加 windows 软件本版
+https://www.v2ex.com/t/636035#reply1
+
+
+
+2020元旦献礼——从零开始开发一个操作系统
+https://www.cnblogs.com/yjlaugus/p/12132585.html
+
+
+391万买一个手机号 网友：买套房不好吗？
+https://www.cnbeta.com/articles/tech/928055.htm
+
+天天美剧挂了吗？
+https://www.v2ex.com/t/634054#reply0
+
+
+珍爱网&36氪发布《90后单身人群白皮书》：明天30岁，可我还单身
+https://36kr.com/p/5280380?ktm_source=feed
+
+
+微博大V评选2019年十佳电影：《少年的你》华语第一
+https://hot.cnbeta.com/articles/movie/927121.htm
+
+
+3D 放烟花效果
+https://www.v2ex.com/t/633601#reply2
+
+小米电视冲击中国首个1000万台成功：海信、创维、TCL都没做到
+https://www.cnbeta.com/articles/tech/926905.htm
+
+
+谷歌发布2019年度搜索排行榜
+https://www.williamlong.info/archives/5916.html
+
+不收专利费的“二维码之父”原昌宏：我是工程师，不是商人
+https://www.36kr.com/p/5279663?ktm_source=feed
+
+2019年十大精彩AI学术论文盘点
+https://www.cnbeta.com/articles/science/926181.htm
+
+
+AntiSpy：一款功能强大的反病毒&反Rootkit免费工具套件
+https://www.freebuf.com/articles/system/221820.html
+
+谁能月均涨粉1000万？抖音、快手短视频Top100账号数据报告
+https://www.36kr.com/p/5279194?ktm_source=feed
+
+
+MS17-010远程溢出漏洞 - 永恒之蓝 [CVE-2017-0143]
+https://www.cnblogs.com/wangyuyang1016/p/12099333.html
+
+
+《咬文嚼字》公布2019年10大语文差错：中国足协、李小璐上榜
+https://www.cnbeta.com/articles/tech/925513.htm
+
+“骨灰级”CPU 6502的设计师病逝 没有他就不会有苹果电脑
+https://www.cnbeta.com/articles/tech/925507.htm
+
+腾讯揭秘《王者荣耀》AI 如何击败职业选手
+https://hot.cnbeta.com/articles/game/925483.htm
+
+
+12306 bypass 抢票使用问题？
+https://www.v2ex.com/t/632058#reply1
+
+用机器学习打造聊天机器人(五) 接入篇
+https://www.cnblogs.com/anai/p/12074350.html
+
+
+看域名（https://mo.fish），猜网站类型，留下你们的答案
+https://www.v2ex.com/t/631413#reply7
+
+
+日本姑娘发明分手通知灯：社交媒体上有人分手就亮
+https://hot.cnbeta.com/articles/funny/923951.htm
+
+这种——LTE 基站同时获取终端 IMEI 以及 IMSI 的采集系统，怎么感觉很像伪基站呀？不擦边么？
+https://www.v2ex.com/t/630848#reply0
+
+
+你们的个人网站是多少？
+https://www.v2ex.com/t/630809#reply12
+
+利用 Python 实现微信半自动化操作
+https://www.v2ex.com/t/630577#reply0
+
+
+[分享创造] 用 Hexo 建了博客，找不到满意的主题，自己写了一个。
+好像解决了分类问题 
+https://junbin123.github.io/
+
+动画 | 什么是希尔排序？
+https://www.cnblogs.com/wotxdx/p/12053918.html
+
+Windows环境下制作MACOS X U盘安装盘
+https://www.cnblogs.com/eos666/p/9578047.html
+
+
+360推微信小程序 可识别酒店Wi-Fi下隐藏摄像头
+https://www.cnbeta.com/articles/tech/921615.htm
+
+
+苹果开始为硅谷员工提供免费的基因检测服务
+https://www.cnbeta.com/articles/tech/921415.htm
+
+谷歌的Interpreter实时翻译功能已登陆移动设备
+https://www.cnbeta.com/articles/tech/921063.htm
+
+百度沸点2019年度十大电视剧：陈情令、都挺好上榜
+https://hot.cnbeta.com/articles/movie/920899.htm
+
+这个 Python 视频，哪有下
+https://www.v2ex.com/t/628647#reply2
+
+
+TensorFlow学习笔记——LeNet-5（训练自己的数据集）
+https://www.cnblogs.com/wj-1314/p/11858502.html
+
+
+Google 新的录音转文字工具已向旧款 Pixel 开放
+https://cn.engadget.com/2019/12/06/google-recorder-pixel-2-pixel-3-available/
+
+
+“狗屁不通文章生成器”登顶GitHub热榜，分分钟写出万字形式主义大作
+https://www.cnblogs.com/anymk/p/11991803.html
+
+
+基于 HTML5 + WebGL 的宇宙 3D 展示系统
+https://www.cnblogs.com/xhload3d/p/11988861.html
+
+
+可立拍更新支持 Animoji 和 Memoji
+https://www.cnbeta.com/articles/tech/918791.htm
+
+
+一场机器人竞赛背后，优必选科技逐渐浮现的教育大版图
+https://36kr.com/p/5272137?ktm_source=feed
+
+记录一次简单的域渗透
+msf带的17010
+https://www.cnblogs.com/Azenga/p/11981260.html
+
+亚马逊基于人工智能的文本转语音服务现在可以实时转录医疗记录
+https://www.cnbeta.com/articles/tech/917217.htm
+
+ctexcel
+哪儿入手美国手机 SIM 卡 Lycamobile 不能使用了~
+https://www.v2ex.com/t/624635#reply2
+
+
+李飞飞计算机视觉学习总结一（附经典论文链接）
+https://www.cnblogs.com/feng2019/p/11962177.html
+
+
+水了一篇 Blog--500 块让你用旧电脑玩儿深度学习（基础篇）
+https://www.v2ex.com/t/624407#reply0
+
+
+tensorflow学习笔记——模型持久化的原理，将CKPT转为pb文件，使用pb模型预测
+https://www.cnblogs.com/wj-1314/p/11289619.html
+
+RNN-LSTM讲解-基于Tensorflow实现
+https://www.cnblogs.com/lh9527/p/9527-11.html
+
+
+小米集团带不动小米手机了
+数据来自 Counterpoint
+https://www.cnbeta.com/articles/tech/915649.htm  
+
+
+携号转网正式上线 三类问题亟待“下线”
+二是移动通信转售号码（网号为170、171、162、165、167等）
+https://www.cnbeta.com/articles/tech/915573.htm
