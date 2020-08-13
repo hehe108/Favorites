@@ -1,3 +1,6 @@
+实现一个简单的Burp验证码本地识别插件
+https://www.freebuf.com/articles/web/168679.html
+
 ﻿https://www.cnblogs.com/dongxiaodong/p/13157901.html
 人脸识别和手势识别应用（face++）开发
 
