@@ -1,3 +1,11 @@
+十大最佳电脑单机游戏
+https://www.williamlong.info/archives/6183.html
+
+SQLmap注入教程
+https://www.freebuf.com/sectool/249152.html
+
+
+
 实现一个简单的Burp验证码本地识别插件
 https://www.freebuf.com/articles/web/168679.html
 
