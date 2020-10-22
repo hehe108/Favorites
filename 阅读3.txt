@@ -1,3 +1,8 @@
+
+蓝军攻防演练实用工具和网站总结（工具已打包）
+https://www.freebuf.com/sectool/252418.html
+
+
 记一次通用漏洞挖掘
 https://www.freebuf.com/articles/web/252730.html
 
